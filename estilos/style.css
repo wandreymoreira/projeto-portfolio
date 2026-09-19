@@ -285,8 +285,9 @@ footer a:hover {
   }
 
 .video-container iframe {
-  
+  width: 90%;
   height: 90%;
+  
   
 }
 
