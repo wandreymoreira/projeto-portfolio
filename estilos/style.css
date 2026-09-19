@@ -284,6 +284,12 @@ footer a:hover {
     top: 65px;
   }
 
+.video-container iframe {
+  
+  height: 90%;
+  
+}
+
   section#detalhes {
     grid-column: 3 / 4;
   }
